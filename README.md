@@ -1,5 +1,5 @@
 # Bootstrap-4
 
-# Slider
+# Slider по уроку из youtube
 
 # Классы
